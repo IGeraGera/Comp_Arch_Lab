@@ -1,0 +1,48 @@
+specbzip
+
+sim_seconds                                  0.084159                       
+system.cpu.cpi                               1.683172
+
+
+
+system.l2.overall_miss_rate::total           0.281708
+system.cpu.dcache.overall_miss_rate::total     0.014840
+system.cpu.icache.overall_miss_rate::total     0.000074                   
+
+
+spechmmer
+
+sim_seconds                                  0.059368
+system.cpu.cpi                               1.187362
+
+system.l2.overall_miss_rate::total           0.082246
+system.cpu.icache.overall_miss_rate::total     0.000205                       
+system.cpu.dcache.overall_miss_rate::total     0.001645  
+
+spechlibm
+
+sim_seconds                                  0.174681                    
+system.cpu.cpi                               3.493611                     
+
+system.l2.overall_miss_rate::total           0.999927
+system.cpu.icache.overall_miss_rate::total     0.000099       
+system.cpu.dcache.overall_miss_rate::total     0.060971          
+
+specmcf
+
+sim_seconds                                  0.055477                    
+system.cpu.cpi                               1.109538           
+
+system.l2.overall_miss_rate::total           0.724040   
+system.cpu.icache.overall_miss_rate::total     0.000037                   
+system.cpu.dcache.overall_miss_rate::total     0.002051 
+
+specsjeng
+
+sim_seconds                                  0.513541
+system.cpu.cpi                              10.270810     
+
+system.l2.overall_miss_rate::total           0.999979     
+system.cpu.icache.overall_miss_rate::total     0.000020         
+system.cpu.dcache.overall_miss_rate::total     0.121829  
+
