@@ -61,3 +61,29 @@ To *specmcf* είχε χαμηλό χρόνο εκτέλεσης, CPI, dcache mi
 
 ## Βήμα 2
 
+### Ερώτημα 1
+
+Για την υλοποίηση των δοκιμών του 2ου βήματος η διαδικασία που ακολουθήθηκε είναι η εξής. Ο χρονισμός του ρολογιού της CPU τέθηκε στα 1GHz και επιλέχθηκαν ως "default" τιμές οι παρακάτω:  
++ L1 instruction cache size             64kb
++ L1 instruction cache associativity    1
++ L1 data cache size                    32kb
++ L1 data cache associativity           1
++ L2 cache size                         512kb
++ L2 cache associativity                2
++ Μέγεθος cache line                    64kb
+
+ Σε κάθε benchmark έγιναν 25 εκτελέσεις. Διατηρώντας σταθερές τις "default" τιμές έγιναν διαδοχικές εκτελέσεις με αλλαγή μιας παραμέτρου κάθε φορά. Με αυτόν τον τρόπο θα μπορούμε να εξάγουμε συμπέρασμα για το πόσο επηρεάζει την απόδοση η κάθε παράμετρος.  
+
+ Οι τιμές που επιλέχθηκαν σε κάθε παράμετρο να προσομοιωθούν είναι:
++ L1 instruction cache size             32,64,128kb
++ L1 instruction cache associativity    1,2,4,8
++ L1 data cache size                    32,64,128kb
++ L1 data cache associativity           1,2,4,8
++ L2 cache size                         512kb,1ΜΒ,2ΜΒ,4ΜΒ
++ L2 cache associativity                1,2,4,8
++ Μέγεθος cache line                    32kb,64kb,128kb
+
+Ακολουθούν τα αποτελέσματα των εκτελέσεων των Benchmarks.
+
+### Ερώτημα 2
+
