@@ -93,3 +93,99 @@ To *specmcf* είχε χαμηλό χρόνο εκτέλεσης, CPI, dcache mi
 + system.l2.overall_miss_rate::total
 
 Τα αρχεία που προαναφέρθηκαν καθώς και όλα τα αρχεία και φακέλοι με τα αποτελέσματα που προέκυψαν από τις εκτελέσεις τους, βρίσκονται στο φάκελο Lab2 του repository. Μέσα σε κάθε φάκελο αποτελεσμάτων υπάρχει ένα results.txt καθώς και ένα spreadsheet results.odt το οποίο περιέχει τις μετρικές του καθε bechmark από κάθε εκτέλεση. Αυτές οι μετρικές θα παρουσιαστούν με την μορφή γραφημάτων παρακάτω καθώς και με βάση αυτών των μετρικών θα γίνει η εξαγωγή των συμπερασμάτων για αυτό το ερώτημα.
+
+***
+
+**specbzip**
+
+**Χρόνος Εκτέλεσης**
+
+![simtime](Charts2/bzip/sim_seconds.png)
+
+**CPI** 
+
+![CPI](Charts2/bzip/CPI.png)
+
+**Data Cache Miss Rate**
+
+![dcachemiss](Charts2/bzip/dcache_missrate.png)
+
+**Instruction Cache Miss Rate**
+
+![icachemiss](Charts2/bzip/icache_missrate.png)
+
+**L2 Cache Miss Rate**
+
+![L2cachemiss](Charts2/bzip/L2cache_missrate.png)
+
+***
+
+**spechmmer**
+
+**Χρόνος Εκτέλεσης**
+
+![simtime](Charts2/hmmer/sim_seconds.png)
+
+**CPI** 
+
+![CPI](Charts2/hmmer/CPI.png)
+
+**Data Cache Miss Rate**
+
+![dcachemiss](Charts2/hmmer/dcache_missrate.png)
+
+**Instruction Cache Miss Rate**
+
+![icachemiss](Charts2/hmmer/icache_missrate.png)
+
+**L2 Cache Miss Rate**
+
+![L2cachemiss](Charts2/hmmer/L2cache_missrate.png)
+
+***
+
+**speclibm**
+
+**Χρόνος Εκτέλεσης**
+
+![simtime](Charts2/libm/sim_seconds.png)
+
+**CPI** 
+
+![CPI](Charts2/libm/CPI.png)
+
+**Data Cache Miss Rate**
+
+![dcachemiss](Charts2/libm/dcache_missrate.png)
+
+**Instruction Cache Miss Rate**
+
+![icachemiss](Charts2/libm/icache_missrate.png)
+
+**L2 Cache Miss Rate**
+
+![L2cachemiss](Charts2/libm/L2cache_missrate.png)
+
+***
+
+**specmcf**
+
+**Χρόνος Εκτέλεσης**
+
+![simtime](Charts2/mcf/sim_seconds.png)
+
+**CPI** 
+
+![CPI](Charts2/mcf/CPI.png)
+
+**Data Cache Miss Rate**
+
+![dcachemiss](Charts2/mcf/dcache_missrate.png)
+
+**Instruction Cache Miss Rate**
+
+![icachemiss](Charts2/mcf/icache_missrate.png)
+
+**L2 Cache Miss Rate**
+
+![L2cachemiss](Charts2/mcf/L2cache_missrate.png)
