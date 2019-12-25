@@ -224,7 +224,7 @@ To *specmcf* είχε χαμηλό χρόνο εκτέλεσης, CPI, dcache mi
 
 Η συναρτηση αυτή είναι:
 
-![L2cachemiss](Charts2/cost_function.png)
+**Cost = (0,5 * (L2size*L2Associativity)+100 * (L1InstructionSize * L1Associativity+L2InstructionSize * L2Associativity)) * LineSize**
 
 Σημ: Στην περίπτωση που δεν είναι ευανάγνωστη συνάρτηση κόστους, περιέχεται σε εικόνα στον φάκελο Lab2/Charts2/
  

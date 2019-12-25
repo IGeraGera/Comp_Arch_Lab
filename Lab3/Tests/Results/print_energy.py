@@ -118,8 +118,8 @@ def main():
         parser.print_help()
         sys.exit(1)
    
-    EDAP = getEDAP(args[0], args[1])
-    print "%f" % EDAP
+    EDAP,area,peak_power = getEDAP(args[0], args[1])
+    print "%f	%f	%f" % (EDAP,area,peak_power)
     
 # This is the new addition 
 # Calculating EDAP and PeakPower
@@ -128,7 +128,7 @@ def getEDAP(mcpatoutputFile, statsFile):
     runtime = getTimefromStats(statsFile)
     energy = (leakage + dynamic)*runtime *1000
     EDAP = energy * area * runtime
-    return EDAP
+    return EDAP , area, peak_power
 
 # Added parsing Area functionality
 def readMcPAT(mcpatoutputFile):

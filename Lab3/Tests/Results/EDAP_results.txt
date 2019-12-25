@@ -1,125 +1,126 @@
-speczip_assocl1d_1	406.802819
-speczip_assocl1d_2	392.669790
-speczip_assocl1d_4	486.357396
-speczip_assocl1d_8	574.551418
-speczip_assocl1i_1	406.802819
-speczip_assocl1i_2	408.919809
-speczip_assocl1i_4	290.111869
-speczip_assocl1i_8	304.407881
-speczip_assocl2_1	415.080081
-speczip_assocl2_2	406.802819
-speczip_assocl2_4	406.095798
-speczip_assocl2_8	407.163010
-speczip_dcache_128	988.214785
-speczip_dcache_32	406.802819
-speczip_dcache_64	722.315264
-speczip_icache_128	604.633255
-speczip_icache_32	216.372410
-speczip_icache_64	406.802819
-speczip_l2_1MB	473.053782
-speczip_l2_2MB	595.404371
-speczip_l2_4MB	775.249333
-speczip_l2_512kB	406.802819
-speczip_linesize_128	1088.123956
-speczip_linesize_32	277.193413
-speczip_linesize_64	406.802819
-spechmmer_assocl1d_1	210.242856
-spechmmer_assocl1d_2	198.030464
-spechmmer_assocl1d_4	250.129679
-spechmmer_assocl1d_8	300.642007
-spechmmer_assocl1i_1	210.242856
-spechmmer_assocl1i_2	211.282086
-spechmmer_assocl1i_4	150.343944
-spechmmer_assocl1i_8	157.706969
-spechmmer_assocl2_1	210.365135
-spechmmer_assocl2_2	210.242856
-spechmmer_assocl2_4	210.190585
-spechmmer_assocl2_8	210.948968
-spechmmer_dcache_128	525.735995
-spechmmer_dcache_32	210.242856
-spechmmer_dcache_64	379.456089
-spechmmer_icache_128	311.756701
-spechmmer_icache_32	112.559857
-spechmmer_icache_64	210.242856
-spechmmer_l2_1MB	251.562781
-spechmmer_l2_2MB	321.708731
-spechmmer_l2_4MB	426.167356
-spechmmer_l2_512kB	210.242856
-spechmmer_linesize_128	550.377876
-spechmmer_linesize_32	126.974059
-spechmmer_linesize_64	210.242856
-speclibm_assocl1d_1	962.649845
-speclibm_assocl1d_2	948.314088
-speclibm_assocl1d_4	1158.890157
-speclibm_assocl1d_8	1349.700854
-speclibm_assocl1i_1	962.649845
-speclibm_assocl1i_2	967.590078
-speclibm_assocl1i_4	685.882339
-speclibm_assocl1i_8	719.730869
-speclibm_assocl2_1	962.720011
-speclibm_assocl2_2	962.649845
-speclibm_assocl2_4	964.095848
-speclibm_assocl2_8	965.506294
-speclibm_dcache_128	2379.618381
-speclibm_dcache_32	962.649845
-speclibm_dcache_64	1688.634506
-speclibm_icache_128	1431.246896
-speclibm_icache_32	511.248331
-speclibm_icache_64	962.649845
-speclibm_l2_1MB	1151.876698
-speclibm_l2_2MB	1473.113403
-speclibm_l2_4MB	1949.346734
-speclibm_l2_512kB	962.649845
-speclibm_linesize_128	1475.986153
-speclibm_linesize_32	1268.713262
-speclibm_linesize_64	962.649845
-specmcf_assocl1d_1	192.312831
-specmcf_assocl1d_2	184.263252
-specmcf_assocl1d_4	233.966187
-specmcf_assocl1d_8	278.041413
-specmcf_assocl1i_1	192.312831
-specmcf_assocl1i_2	193.250927
-specmcf_assocl1i_4	137.649347
-specmcf_assocl1i_8	144.302123
-specmcf_assocl2_1	192.939865
-specmcf_assocl2_2	192.312831
-specmcf_assocl2_4	192.151971
-specmcf_assocl2_8	192.804964
-specmcf_dcache_128	478.493255
-specmcf_dcache_32	192.312831
-specmcf_dcache_64	336.687029
-specmcf_icache_128	284.950998
-specmcf_icache_32	133.336694
-specmcf_icache_64	192.312831
-specmcf_l2_1MB	228.742814
-specmcf_l2_2MB	291.031218
-specmcf_l2_4MB	385.027136
-specmcf_l2_512kB	192.312831
-specmcf_linesize_128	475.187989
-specmcf_linesize_32	120.137829
-specmcf_linesize_64	192.312831
-specsjeng1_assocl1d_1	6746.054912
-specsjeng1_assocl1d_2	6743.692794
-specsjeng1_assocl1d_4	8266.673970
-specsjeng1_assocl1d_8	9511.839482
-specsjeng1_assocl1i_1	6746.054912
-specsjeng1_assocl1i_2	6780.849758
-specsjeng1_assocl1i_4	4795.155894
-specsjeng1_assocl1i_8	5032.925329
-specsjeng1_assocl2_1	6746.448919
-specsjeng1_assocl2_2	6746.054912
-specsjeng1_assocl2_4	6745.698178
-specsjeng1_assocl2_8	6770.055341
-specsjeng1_dcache_128	16560.282448
-specsjeng1_dcache_32	6746.054912
-specsjeng1_dcache_64	11724.744148
-specsjeng1_icache_128	10045.698516
-specsjeng1_icache_32	3568.295544
-specsjeng1_icache_64	6746.054912
-specsjeng1_l2_1MB	8081.964906
-specsjeng1_l2_2MB	10352.009818
-specsjeng1_l2_4MB	13731.006458
-specsjeng1_l2_512kB	6746.054912
-specsjeng1_linesize_128	8867.171670
-specsjeng1_linesize_32	11056.792056
-specsjeng1_linesize_64	6746.054912
+Filename	EDAP	Area	Power
+speczip_assocl1d_1	406.802819,  10.727700,  3.782010
+speczip_assocl1d_2	392.669790,  10.764200,  3.801350
+speczip_assocl1d_4	486.357396,  11.603900,  4.214700
+speczip_assocl1d_8	574.551418,  12.534600,  4.507570
+speczip_assocl1i_1	406.802819,  10.727700,  3.782010
+speczip_assocl1i_2	408.919809,  10.763800,  3.787390
+speczip_assocl1i_4	290.111869,  9.730570,  3.484200
+speczip_assocl1i_8	304.407881,  10.003900,  3.636480
+speczip_assocl2_1	415.080081,  10.728600,  3.781970
+speczip_assocl2_2	406.802819,  10.727700,  3.782010
+speczip_assocl2_4	406.095798,  10.726400,  3.782280
+speczip_assocl2_8	407.163010,  10.764400,  3.783660
+speczip_dcache_128	988.214785,  15.916900,  5.168870
+speczip_dcache_32	406.802819,  10.727700,  3.782010
+speczip_dcache_64	722.315264,  13.355400,  4.678570
+speczip_icache_128	604.633255,  13.056300,  4.314940
+speczip_icache_32	216.372410,  8.338800,  2.757920
+speczip_icache_64	406.802819,  10.727700,  3.782010
+speczip_l2_1MB	473.053782,  12.810000,  3.850800
+speczip_l2_2MB	595.404371,  16.329800,  3.957520
+speczip_l2_4MB	775.249333,  21.516200,  4.080510
+speczip_l2_512kB	406.802819,  10.727700,  3.782010
+speczip_linesize_128	1088.123956,  27.278600,  8.187100
+speczip_linesize_32	277.193413,  8.672460,  2.171710
+speczip_linesize_64	406.802819,  10.727700,  3.782010
+spechmmer_assocl1d_1	210.242856,  10.727700,  3.782010
+spechmmer_assocl1d_2	198.030464,  10.764200,  3.801350
+spechmmer_assocl1d_4	250.129679,  11.603900,  4.214700
+spechmmer_assocl1d_8	300.642007,  12.534600,  4.507570
+spechmmer_assocl1i_1	210.242856,  10.727700,  3.782010
+spechmmer_assocl1i_2	211.282086,  10.763800,  3.787390
+spechmmer_assocl1i_4	150.343944,  9.730570,  3.484200
+spechmmer_assocl1i_8	157.706969,  10.003900,  3.636480
+spechmmer_assocl2_1	210.365135,  10.728600,  3.781970
+spechmmer_assocl2_2	210.242856,  10.727700,  3.782010
+spechmmer_assocl2_4	210.190585,  10.726400,  3.782280
+spechmmer_assocl2_8	210.948968,  10.764400,  3.783660
+spechmmer_dcache_128	525.735995,  15.916900,  5.168870
+spechmmer_dcache_32	210.242856,  10.727700,  3.782010
+spechmmer_dcache_64	379.456089,  13.355400,  4.678570
+spechmmer_icache_128	311.756701,  13.056300,  4.314940
+spechmmer_icache_32	112.559857,  8.338800,  2.757920
+spechmmer_icache_64	210.242856,  10.727700,  3.782010
+spechmmer_l2_1MB	251.562781,  12.810000,  3.850800
+spechmmer_l2_2MB	321.708731,  16.329800,  3.957520
+spechmmer_l2_4MB	426.167356,  21.516200,  4.080510
+spechmmer_l2_512kB	210.242856,  10.727700,  3.782010
+spechmmer_linesize_128	550.377876,  27.278600,  8.187100
+spechmmer_linesize_32	126.974059,  8.672460,  2.171710
+spechmmer_linesize_64	210.242856,  10.727700,  3.782010
+speclibm_assocl1d_1	962.649845,  10.727700,  3.782010
+speclibm_assocl1d_2	948.314088,  10.764200,  3.801350
+speclibm_assocl1d_4	1158.890157,  11.603900,  4.214700
+speclibm_assocl1d_8	1349.700854,  12.534600,  4.507570
+speclibm_assocl1i_1	962.649845,  10.727700,  3.782010
+speclibm_assocl1i_2	967.590078,  10.763800,  3.787390
+speclibm_assocl1i_4	685.882339,  9.730570,  3.484200
+speclibm_assocl1i_8	719.730869,  10.003900,  3.636480
+speclibm_assocl2_1	962.720011,  10.728600,  3.781970
+speclibm_assocl2_2	962.649845,  10.727700,  3.782010
+speclibm_assocl2_4	964.095848,  10.726400,  3.782280
+speclibm_assocl2_8	965.506294,  10.764400,  3.783660
+speclibm_dcache_128	2379.618381,  15.916900,  5.168870
+speclibm_dcache_32	962.649845,  10.727700,  3.782010
+speclibm_dcache_64	1688.634506,  13.355400,  4.678570
+speclibm_icache_128	1431.246896,  13.056300,  4.314940
+speclibm_icache_32	511.248331,  8.338800,  2.757920
+speclibm_icache_64	962.649845,  10.727700,  3.782010
+speclibm_l2_1MB	1151.876698,  12.810000,  3.850800
+speclibm_l2_2MB	1473.113403,  16.329800,  3.957520
+speclibm_l2_4MB	1949.346734,  21.516200,  4.080510
+speclibm_l2_512kB	962.649845,  10.727700,  3.782010
+speclibm_linesize_128	1475.986153,  27.278600,  8.187100
+speclibm_linesize_32	1268.713262,  8.672460,  2.171710
+speclibm_linesize_64	962.649845,  10.727700,  3.782010
+specmcf_assocl1d_1	192.312831,  10.727700,  3.782010
+specmcf_assocl1d_2	184.263252,  10.764200,  3.801350
+specmcf_assocl1d_4	233.966187,  11.603900,  4.214700
+specmcf_assocl1d_8	278.041413,  12.534600,  4.507570
+specmcf_assocl1i_1	192.312831,  10.727700,  3.782010
+specmcf_assocl1i_2	193.250927,  10.763800,  3.787390
+specmcf_assocl1i_4	137.649347,  9.730570,  3.484200
+specmcf_assocl1i_8	144.302123,  10.003900,  3.636480
+specmcf_assocl2_1	192.939865,  10.728600,  3.781970
+specmcf_assocl2_2	192.312831,  10.727700,  3.782010
+specmcf_assocl2_4	192.151971,  10.726400,  3.782280
+specmcf_assocl2_8	192.804964,  10.764400,  3.783660
+specmcf_dcache_128	478.493255,  15.916900,  5.168870
+specmcf_dcache_32	192.312831,  10.727700,  3.782010
+specmcf_dcache_64	336.687029,  13.355400,  4.678570
+specmcf_icache_128	284.950998,  13.056300,  4.314940
+specmcf_icache_32	133.336694,  8.338800,  2.757920
+specmcf_icache_64	192.312831,  10.727700,  3.782010
+specmcf_l2_1MB	228.742814,  12.810000,  3.850800
+specmcf_l2_2MB	291.031218,  16.329800,  3.957520
+specmcf_l2_4MB	385.027136,  21.516200,  4.080510
+specmcf_l2_512kB	192.312831,  10.727700,  3.782010
+specmcf_linesize_128	475.187989,  27.278600,  8.187100
+specmcf_linesize_32	120.137829,  8.672460,  2.171710
+specmcf_linesize_64	192.312831,  10.727700,  3.782010
+specsjeng1_assocl1d_1	6746.054912,  10.727700,  3.782010
+specsjeng1_assocl1d_2	6743.692794,  10.764200,  3.801350
+specsjeng1_assocl1d_4	8266.673970,  11.603900,  4.214700
+specsjeng1_assocl1d_8	9511.839482,  12.534600,  4.507570
+specsjeng1_assocl1i_1	6746.054912,  10.727700,  3.782010
+specsjeng1_assocl1i_2	6780.849758,  10.763800,  3.787390
+specsjeng1_assocl1i_4	4795.155894,  9.730570,  3.484200
+specsjeng1_assocl1i_8	5032.925329,  10.003900,  3.636480
+specsjeng1_assocl2_1	6746.448919,  10.728600,  3.781970
+specsjeng1_assocl2_2	6746.054912,  10.727700,  3.782010
+specsjeng1_assocl2_4	6745.698178,  10.726400,  3.782280
+specsjeng1_assocl2_8	6770.055341,  10.764400,  3.783660
+specsjeng1_dcache_128	16560.282448,  15.916900,  5.168870
+specsjeng1_dcache_32	6746.054912,  10.727700,  3.782010
+specsjeng1_dcache_64	11724.744148,  13.355400,  4.678570
+specsjeng1_icache_128	10045.698516,  13.056300,  4.314940
+specsjeng1_icache_32	3568.295544,  8.338800,  2.757920
+specsjeng1_icache_64	6746.054912,  10.727700,  3.782010
+specsjeng1_l2_1MB	8081.964906,  12.810000,  3.850800
+specsjeng1_l2_2MB	10352.009818,  16.329800,  3.957520
+specsjeng1_l2_4MB	13731.006458,  21.516200,  4.080510
+specsjeng1_l2_512kB	6746.054912,  10.727700,  3.782010
+specsjeng1_linesize_128	8867.171670,  27.278600,  8.187100
+specsjeng1_linesize_32	11056.792056,  8.672460,  2.171710
+specsjeng1_linesize_64	6746.054912,  10.727700,  3.782010

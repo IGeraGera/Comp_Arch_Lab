@@ -5,6 +5,14 @@
 
 #Setting Path to the benchmark directories
 benches_path="../Benches/*/*/"
+# Setting first line of results txt
+echo -n "Filename" >> EDAP_results.txt
+echo -n "	" >> EDAP_results.txt
+echo -n "EDAP" >> EDAP_results.txt
+echo -n "	" >> EDAP_results.txt
+echo -n "Area" >> EDAP_results.txt
+echo -n "	" >> EDAP_results.txt
+echo "Power" >> EDAP_results.txt
 
 # Iterating through directories
 for i in $benches_path; do
