@@ -14,8 +14,7 @@
 
 [Πηγή 1](https://www.researchgate.net/publication/221005540_McPAT_An_integrated_power_area_and_timing_modeling_framework_for_multicore_and_manycore_architectures?fbclid=IwAR3UAablrOt6DW4CYdM40D7pQ0VOC2olxDcP789Tn9bobWsBW-_bDgVKGcg)
 
-[Πηγή 2]
-(https://www.researchgate.net/publication/228674742_McPAT_10_An_Integrated_Power_Area_and_Timing_Modeling_Framework_for_Multicore_Architecture?fbclid=IwAR1c5mWGg-bygmqP6bJYkK1PLn4X22rYotRhBVcI8cTqtIvX8x3B5HQrSsE)
+[Πηγή 2](https://www.researchgate.net/publication/228674742_McPAT_10_An_Integrated_Power_Area_and_Timing_Modeling_Framework_for_Multicore_Architecture?fbclid=IwAR1c5mWGg-bygmqP6bJYkK1PLn4X22rYotRhBVcI8cTqtIvX8x3B5HQrSsE)
 
 ## Ερώτημα 2
 
